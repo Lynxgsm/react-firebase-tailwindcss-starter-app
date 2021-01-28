@@ -1,0 +1,11 @@
+{
+  "config": {
+    "apiKey": "AIzaSyB3tsVHyAr8Drftk8-tmOm_Yc_xgwbwJqA",
+    "authDomain": "pikii-pikii.firebaseapp.com",
+    "projectId": "pikii-pikii",
+    "storageBucket": "pikii-pikii.appspot.com",
+    "messagingSenderId": "639499653146",
+    "appId": "1:639499653146:web:7319a6c9ed1efa5f46c1a3",
+    "measurementId": "G-WTLT4XSZ60"
+  }
+}
